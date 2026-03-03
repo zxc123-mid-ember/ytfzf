@@ -1,6 +1,6 @@
 # NOTICE
 
-This project is no longer actively maintained, it should still work for the foreseeable future
+This project is no longer actively maintained, it should still work for the foreseeable future[B2-C1]
 
 ---
 
