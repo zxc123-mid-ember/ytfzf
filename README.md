@@ -1,6 +1,10 @@
 # NOTICE
 
+HEAD
 This project is no longer actively maintained, it should still work for the foreseeable future[B2-C3]
+
+This project is no longer actively maintained, it should still work for the foreseeable future[B1-C3]
+branch1
 
 ---
 
